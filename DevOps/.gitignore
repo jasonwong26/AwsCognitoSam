@@ -1,0 +1,10 @@
+
+# dependencies
+node_modules
+
+# production
+Other/deploy
+
+#cdk
+dist
+cdk.out

@@ -1,0 +1,23 @@
+{
+  "name": "aws-cognito-sam",
+  "version": "0.0.1",
+  "description": "Test of using AWS Cognito User Pools for securing a SAM REST API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonwong26/AwsCognitoSam.git"
+  },
+  "author": "Jason Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonwong26/AwsCognitoSam/issues"
+  },
+  "homepage": "https://github.com/jasonwong26/AwsCognitoSam#readme",
+  "dependencies": {
+    "@aws-amplify/ui-react": "^1.0.7",
+    "@types/jest": "^26.0.23",
+    "aws-amplify": "^3.3.27"
+  },
+  "devDependencies": {
+    "@aws-amplify/cli": "^4.50.0"
+  }
+}
